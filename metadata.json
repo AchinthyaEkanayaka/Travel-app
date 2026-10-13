@@ -1,0 +1,6 @@
+{
+  "name": "Sri Lanka Tourism - Ayubowan Explorer",
+  "description": "Modern, review-centric Sri Lanka travel dashboard inspired by TripAdvisor, featuring top-rated experiences, wildlife safaris, heritage sites, and verified traveler guides.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
